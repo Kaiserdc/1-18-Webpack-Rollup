@@ -1,7 +1,6 @@
 {
-  "name": "roll",
+  "name": "rollup",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c",
@@ -9,5 +8,17 @@
   },
   "keywords": [],
   "author": "Thomas Schneider",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiserdc/1-18-Webpack-Rollup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kaiserdc/1-18-Webpack-Rollup/issues"
+  },
+  "homepage": "https://github.com/Kaiserdc/1-18-Webpack-Rollup#readme",
+  "description": "",
+  "dependencies": {
+    "rollup": "^2.59.0"
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "rollup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "Thomas Schneider",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiserdc/1-18-Webpack-Rollup.git"
+  },
+  "description": "",
+  "dependencies": {
+    "rollup": "^2.59.0"
+  }
+}
